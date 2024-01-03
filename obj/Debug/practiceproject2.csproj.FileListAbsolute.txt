@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\bin\Debug\practiceproject2.exe.config
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\bin\Debug\practiceproject2.exe
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\bin\Debug\practiceproject2.pdb
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\obj\Debug\practiceproject2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\obj\Debug\practiceproject2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\obj\Debug\practiceproject2.exe
+C:\Users\user\Desktop\mphasis\dec20\dec20\practiceproject2\practiceproject2\obj\Debug\practiceproject2.pdb
